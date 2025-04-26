@@ -13,19 +13,13 @@
 ## 🚀 Skills & Tools
 
 - **Languages**: Python (Pandas, NumPy), SQL
-- **Data Visualization**: Power BI, Tableau
-- **Database**: MySQL
-- **Machine Learning**: scikit-learn (SVM, Random Forest, Decision Tree, KNN)
-- **Others**: Tableau Prep Builder, Power Query, Git, GitHub
+- **Data Visualization**: Power BI, Excel
+- **Database**: MySQL,MySQL Server
+- **Machine Learning**: scikit-learn (Linear Regression, Logistic Regression, K-Means Clustering)
+- **Others**: Power Query,GitHub
 
 ---
 
-## 📈 GitHub Stats
-
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhilteotia1101&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nikhilteotia1101&theme=radical)
-
----
 
 ## 🌟 Featured Projects
 
@@ -47,8 +41,8 @@
 ## 🎯 Current Learning Goals
 
 - 🔥 Mastering advanced DAX techniques in Power BI
-- 🧠 Deepening Machine Learning model tuning (GridSearchCV, Random Forest)
 - 📊 Building highly dynamic Business Intelligence dashboards
+- Learning Advanced SQL Topics
 
 ---
 

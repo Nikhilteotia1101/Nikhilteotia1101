@@ -50,8 +50,4 @@
 
 > "Data is the new oil, but visualization is the spark that lights it!" 🚀
 
----
 
-## 🌎 Visitor Count
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=Nikhilteotia1101&label=Profile+Views&color=0e75b6&style=flat)

@@ -1,4 +1,4 @@
-<img src="[https://link-to-your-banner-image.com/banner.png](https://github.com/Nikhilteotia1101/Nikhilteotia1101/blob/main/Cover_Ottawa.png)" alt="Banner" width="100%" />
+<img src="https://github.com/Nikhilteotia1101/Nikhilteotia1101/blob/main/Cover_Ottawa.png" alt="Banner" width="100%" />
 
 
 # 👋 Hi there, I'm Nikhil Teotia!
